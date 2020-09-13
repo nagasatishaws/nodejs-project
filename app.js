@@ -120,7 +120,7 @@ var timestamp = new Date().getTime();
 /*
     Fire the server online
 */
-app.set('port', (process.env.PORT || 7000));
+app.set('port', (process.env.PORT || 1000));
 app.listen(app.get('port'), function() {
 	console.log('Server started on port '+ app.get('port'));
 });
