@@ -33,7 +33,7 @@
     "serve-favicon": "^2.4.1"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "node": "^1.11.0"
   },
   "engines": {
     "node": "6.9.1"
